@@ -1,4 +1,4 @@
-#来自 https://github.com/JeromeSuz/demo_zeroc_ice_tcp 分享，需要原demo的去作者那下载，我这仅用于自己的学习过程中版本管理。再次感谢
+##来自 https://github.com/JeromeSuz/demo_zeroc_ice_tcp 分享，需要原demo的去作者那下载，我这仅用于自己的学习过程中版本管理。再次感谢作者~~
 # demo_zeroc_ice_tcp
 Zeroc Ice TCP长连接 实现推送功能
 
